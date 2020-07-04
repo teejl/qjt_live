@@ -18,7 +18,7 @@ app.set('port', port);
 console.log('><> ><> ><> ><> ><> ><>  <>< <>< <>< <>< <>< <><');
 console.log('The server is set to port: ' + port);
 console.log('Enjoy swimming.');
-console.log('-TeeJ');
+console.log('- TeeJ');
 console.log('><> ><> ><> ><> ><> ><>  <>< <>< <>< <>< <>< <><');
 
 /**
